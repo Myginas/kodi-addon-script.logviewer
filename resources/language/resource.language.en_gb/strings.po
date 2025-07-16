@@ -47,15 +47,15 @@ msgid "All"
 msgstr ""
 
 msgctxt "#30007"
-msgid "100"
+msgid "10000"
 msgstr ""
 
 msgctxt "#30008"
-msgid "50"
+msgid "1000"
 msgstr ""
 
 msgctxt "#30009"
-msgid "20"
+msgid "100"
 msgstr ""
 
 msgctxt "#30010"

@@ -63,11 +63,11 @@ def get_inverted():
 def get_lines():
     nr_lines = get_setting("lines")
     if nr_lines == "1":
-        return 100
+        return 10000
     elif nr_lines == "2":
-        return 50
+        return 1000
     elif nr_lines == "3":
-        return 20
+        return 100
     else:
         return 0
 
